@@ -24,6 +24,16 @@
     },
     {
       "model": [
+        "NEEV23"
+      ],
+      "region": "USA",
+      "firmware": "260903",
+      "features": [
+        "hmgapi.wifi"
+      ]
+    },
+    {
+      "model": [
         "CVEV",
         "NEEV"
       ],

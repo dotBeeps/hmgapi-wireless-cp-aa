@@ -31,6 +31,7 @@ in-memory patches (no files changed); the files it does change are listed in the
 |---|---|---|
 | Kia EV6 (`CVEV`) | USA | 260507 |
 | Hyundai Ioniq 5 (`NEEV`, `NEEV23`) | USA | 260507 |
+| Hyundai Ioniq 5 (`NEEV23`) | USA | 260903 |
 | Kia EV6 (`CVEV`) | Canada | 260206 |
 | Hyundai Ioniq 5 (`NEEV`) | Canada | 260206 |
 
